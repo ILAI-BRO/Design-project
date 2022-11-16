@@ -191,10 +191,10 @@ body {
 }
 @media (max-width: 907.98px) and (max-width: 767.98px) {
   .repair__title {
-    font-size: 23px;
+    font-size: 1.6rem;
   }
   .repair__text {
-    font-size: 14px;
+    font-size: 1rem;
   }
 }
 @media (max-width: 481px) {
@@ -427,10 +427,10 @@ body {
     padding: 0px;
   }
   .completed__items .title__block {
-    font-size: 14px;
+    font-size: 1rem;
   }
   .completed__items .text__block {
-    font-size: 11px;
+    font-size: 0.8rem;
   }
   .completed__items_one-row {
     display: flex;
@@ -548,7 +548,7 @@ body {
   padding: 35px 68px 93px 68px;
   font-family: "Nunito Sans";
   font-size: 1.3rem;
-  line-height: 2.6rem;
+  line-height: 2.6;
   text-align: center;
 }
 
@@ -580,8 +580,8 @@ body {
 }
 
 legend {
-  font-size: 13px;
-  line-height: 21px;
+  font-size: 0.9rem;
+  line-height: 1.5;
   color: rgba(54, 54, 54, 0.5);
 }
 
@@ -592,7 +592,7 @@ input {
   border: none;
   border-bottom: 1px solid #959595;
   outline: none;
-  font-size: 16px;
+  font-size: 1.1rem;
   line-height: 24px;
 }
 
@@ -959,12 +959,11 @@ input {
 
 .input__title {
   font-family: "Nunito Sans";
-  font-size: 18px;
+  font-size: 1.3rem;
   line-height: 26px;
   text-align: center;
   color: #FFFFFF;
   margin: 0px 70px 40px;
-  text-transform: uppercase;
 }
 
 .input__title-mobile {
@@ -1025,7 +1024,7 @@ input {
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 1.3rem;
   line-height: 26px;
   color: #E3B873;
   text-shadow: 0px 3px 10px rgba(227, 184, 115, 0.15);
@@ -1053,7 +1052,7 @@ input {
   .types-repait__title-mobile {
     display: inline-block;
     font-family: "Yeseva One";
-    font-size: 22px;
+    font-size: 1.6rem;
     line-height: 30px;
     text-align: center;
     text-transform: uppercase;
@@ -1266,7 +1265,7 @@ input {
 }
 .clients__text p {
   font-family: "Nunito Sans";
-  font-size: 18px;
+  font-size: 1.3rem;
   line-height: 29px;
   text-align: center;
   color: #363636;
@@ -1296,7 +1295,7 @@ input {
 .clients__name h4 {
   font-family: "Yeseva One";
   font-style: normal;
-  font-size: 18px;
+  font-size: 1.3rem;
   line-height: 23px;
   color: #181818;
 }
@@ -1305,7 +1304,7 @@ input {
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 0.9rem;
   line-height: 23px;
   color: #959595;
 }
@@ -1328,7 +1327,7 @@ input {
   display: flex;
   align-items: center;
   font-family: "Yeseva One";
-  font-size: 17px;
+  font-size: 1.2rem;
   line-height: 24px;
   color: #FFFFFF;
   margin-right: 1px;
@@ -1430,7 +1429,7 @@ input {
     padding: 0;
   }
   .bottom__title {
-    font-size: 18px;
+    font-size: 1.3rem;
     line-height: 25px;
   }
   .bottom__map {
