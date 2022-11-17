@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("/css/nullstyle.css");
+@import url("./css/nullstyle.css");
 body {
   font-family: "Nunito Sans";
 }
@@ -91,7 +91,7 @@ body {
 
 /*==========================================*/
 .repair {
-  background-image: url("/img/img.jpg");
+  background-image: url("./img/img.jpg");
   background-size: cover;
   position: relative;
   max-width: 100%;
@@ -205,7 +205,7 @@ body {
     margin: 0px 0px 20px 0px;
   }
   .repair {
-    background-image: url(/img/image-mobile.png);
+    background-image: url(./img/image-mobile.png);
   }
 }
 /*=======================================================*/
@@ -748,7 +748,7 @@ input {
 }
 
 .item-redecorating {
-  background-image: url("/img/redecorating-bg.jpg");
+  background-image: url("./img/redecorating-bg.jpg");
   background-repeat: no-repeat;
   margin: 0px 30px 0px 0px;
 }
@@ -799,13 +799,13 @@ input {
 }
 
 .item__overhaul {
-  background-image: url("/img/overhaul-bg.jpg");
+  background-image: url("./img/overhaul-bg.jpg");
   background-repeat: no-repeat;
   margin: 0px 30px 0px 0px;
 }
 
 .item__designer {
-  background-image: url("/img/designer-bg.jpg");
+  background-image: url("./img/designer-bg.jpg");
   background-repeat: no-repeat;
   margin: 0px 30px 0px 0px;
 }
@@ -831,7 +831,7 @@ input {
     padding-top: 258px;
   }
   .item__overhaul {
-    background-image: url("/img/overhaul-bg-mobile.jpg");
+    background-image: url("./img/overhaul-bg-mobile.jpg");
     background-repeat: no-repeat;
   }
 }
@@ -844,7 +844,7 @@ input {
 }
 
 .advantages__block {
-  background-image: url("/img/advantages-backdrop.png");
+  background-image: url("./img/advantages-backdrop.png");
   max-width: 701px;
   width: 100%;
   background-repeat: no-repeat;
@@ -1079,7 +1079,7 @@ input {
   }
 }
 .fantasies {
-  background-image: url("/img/fantasies-img.png");
+  background-image: url("./img/fantasies-img.png");
   background-size: cover;
 }
 
@@ -1345,7 +1345,7 @@ input {
 }
 
 .bottom {
-  background-image: url("/img/bottom-frame.png");
+  background-image: url("./img/bottom-frame.png");
   background-color: rgba(0, 0, 0, 0.9);
 }
 
